@@ -11,7 +11,7 @@ import { Link } from 'react-router-dom';
 export default function MainContent() {
   function handleClickButtonCtt() {
     window.location.href =
-      'https://api.whatsapp.com/send?phone=5598988661001&text=Ola!%20Gostaria%20de%20tirar%20uma%20d%C3%BAvida';
+      'https://api.whatsapp.com/send?phone=5598983294378&text=Ola!%20Gostaria%20de%20tirar%20uma%20d%C3%BAvida';
   }
 
   function handleClickButtonSite() {
